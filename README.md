@@ -1,6 +1,6 @@
 # Kai Stewart
 
-[View resume](https://github.com/kseuro/resume/deployments/github-pages)
+[View resume](https://kseuro.github.io/resume/)
 
 ## Summary
 
