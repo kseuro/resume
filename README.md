@@ -1,5 +1,7 @@
-# Kai Stewart - Full Length Resumé
+# Kai Stewart
 
-Computational biologist driven by a fascination with how code can create solutions that compound on each
-other to transform biological problems into engineering problems. My work focuses on the development of
-streamlined bioinformatics pipelines, building optimization software, and single-cell data analysis. I prioritize best practices like Git and containerization to produce maintainable code and reproducible analyses.
+[View resume](https://github.com/kseuro/resume/deployments/github-pages)
+
+## Summary
+
+Computational biologist with 5+ years experience analyzing single‑cell data, building custom bioinformatics and optimization software, and developing data pipelines. Driven by a fascination with how code can transform biological questions into engineering problems by prioritizing DevOps best practices like Git and containerization to produce maintainable code, reproducible analyses, and scalable solutions.
